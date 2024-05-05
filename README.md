@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning about programming in JAVA;
 - 💞️ I’m looking to collaborate on projects that inspire me;
 - 📫 How to reach me: ianka.bernardes@outlook.com;
-- 😄 Pronouns: she and her;
 - ⚡ Fun fact: my first degree was in gastronomy.
 
 <!---
